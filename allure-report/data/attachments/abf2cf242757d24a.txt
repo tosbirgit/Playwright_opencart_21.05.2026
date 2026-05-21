@@ -1,0 +1,5 @@
+My Account heading is not visible on the page
+Error getting My Account heading text: Error: expect(received).toBe(expected) // Object.is equality
+
+Expected: "My Account"
+Received: null

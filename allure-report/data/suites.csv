@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3039","Login test with abcxyz@xyz.com and abcxyx @datadriven","chromium","2026-05-18","passed","2026-05-18","","logindatadriven.spec.ts","",""
+"","6192","Account Registration Tests","chromium","2026-05-17","passed","2026-05-17","","AccountRegistration.spec.ts","",""
+"","4728","user login test","chromium","2026-05-18","passed","2026-05-18","","login.spec.ts","",""
+"","4556","user login test @master @sanity @regression","chromium","2026-05-18","passed","2026-05-18","","login.spec.ts","",""
+"","3860","Login test with toskhjg@gmail.com and TestOpencart123@ @datadriven","chromium","2026-05-18","passed","2026-05-18","","logindatadriven.spec.ts","",""
+"","5863","Account Registration Tests @master @sanity @regression","chromium","2026-05-18","passed","2026-05-18","","AccountRegistration.spec.ts","",""
+"","2531","Login test with pavanol@abc.com and test@123 @datadriven","chromium","2026-05-18","failed","2026-05-18","","logindatadriven.spec.ts","",""
